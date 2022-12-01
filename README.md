@@ -1,7 +1,7 @@
 Hi !👋 My name is Hari Prasath
 ====================================================================================================================================
 
-Computer Science Engineer
+Web Developer
 -------------------------
 
 Accurate, immensely motivated individual seeking an entry-level position in the field of Project Management. Passionate about building and launching new projects.
